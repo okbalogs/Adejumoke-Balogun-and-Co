@@ -17,7 +17,7 @@ export const Contact = () => {
     setStatus("loading");
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/adejumokejbalogun@gmail.com", {
+      const response = await fetch("https://formsubmit.co/ajax/e557697424378847b7379f9dd75d09fb", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
